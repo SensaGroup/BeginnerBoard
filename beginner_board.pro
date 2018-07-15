@@ -1,4 +1,4 @@
-update=недеља, 08. јул 2018. 11:13:45 CEST
+update=недеља, 15. јул 2018. 15:20:46 CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -153,3 +153,13 @@ LibName121=/home/sg/Development/KicadFiles/SparkFun-KiCad-Libraries-master/Libra
 LibName122=/home/sg/Development/KicadFiles/SparkFun-KiCad-Libraries-master/Libraries/SparkFun-Batteries
 LibName123=/home/sg/Development/KicadFiles/SparkFun-KiCad-Libraries-master/Libraries/SparkFun-Aesthetics
 LibName124=/home/sg/Development/KicadFiles/KiCad-SSD1306_OLED-0.91-128x32-master/SSD1306_OLED-0.91-128x32
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
