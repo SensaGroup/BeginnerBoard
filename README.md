@@ -31,5 +31,5 @@ The BeginnerBoard has all the necessary components to get started with Arduino f
 	- Custon input voltage or Input of 7V-25V from Power Segment
 - Pinout for I2C
 
-## Sponsered by AISLER
+## Sponsored by AISLER
 ### Develop and manufacture your own premium boards at [aisler.net](https://aisler.net/)
